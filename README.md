@@ -1,2 +1,2 @@
 # DistMq
-#A distributed message queue
+A distributed message queue
